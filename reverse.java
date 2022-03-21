@@ -1,3 +1,4 @@
+//By: Nicko Arellano 3/21/2022
 import java.util.Scanner;
 public class reverse{
 	public static void main(String[] args){
